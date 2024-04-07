@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN625 - 6000 - P63";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"DIN625 Deep groove ball bearing - Basic Type, Bore d = 10, Outer Diameter D = 26, Width B = 8, Radial bearing clearance C3";"";
+"TraceParts.PartNumber";"34-03062013-073678";"";
+"TraceParts.PartLanguage";"en";"";
+"STANDARD";"DIN 625";"";
+"TraceParts.InstanceId";"34-03062013-0736784V5U8ALMDP99AK0E3HBSLCTO7";"";
+"TraceParts.PartTitle";"DIN 625 Deep groove ball bearing - Basic type";"";
+"TraceParts.PartVersion";"1.2.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:34-03062013-073678";"";

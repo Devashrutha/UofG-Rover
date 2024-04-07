@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-07082021-042791";"";
+"REFERENCE";"552018";"";
+"TraceParts.PartTitle";"Gas Spring End Fittings & Mounts - Ball Joint Assembly M5 x 0.8 mm Mounting Hole to End Length ; 17.5 mm | 0.689 in";"";
+"TraceParts.InstanceId";"90-07082021-042791AONE9IMGN35OKGKSNJXCJNI5L";"";
+"SUPPLIER";"Essentra Components";"";
+"DESIGN";"Gas Spring End Fittings & Mounts - Ball Joint Assembly M5 x 0.8 mm Mounting Hole to End Length ; 17.5 mm | 0.689 in";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"TraceParts.PartLanguage";"en";"";
